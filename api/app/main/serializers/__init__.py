@@ -1,0 +1,1 @@
+from app.main.serializers.items_processed_serializer import ItemsProcessedSerializer

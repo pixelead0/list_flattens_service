@@ -1,0 +1,1 @@
+from app.main.helpers.items_processed_helper import ItemsProcessedHelper
