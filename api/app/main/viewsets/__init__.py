@@ -1,0 +1,1 @@
+from app.main.viewsets.items_processed_viewset import ItemsProcessedCreate

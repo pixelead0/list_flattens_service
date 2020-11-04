@@ -1,0 +1,1 @@
+from app.main.admin.items_processed_admin import ItemsProcessedAdmin
